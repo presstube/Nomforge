@@ -1,6 +1,6 @@
 # Nomforge
 
-## Breaker of hearts - Maker of names
+## Current system outputting 1000 iterations
 
 fistflapler,
 youcyberlon,
