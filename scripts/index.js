@@ -173,7 +173,7 @@ function makeName() {
 }
 
 let noms = _.times(1000, makeName)
-document.body.innerHTML = noms.toString().replace(/,/g, ',</br>');
+document.body.innerHTML = noms.toString().replace(/,/g, '</br>');
 
 // var paragraph = document.getElementById("noms")
 // var text = document.createTextNode(noms)
